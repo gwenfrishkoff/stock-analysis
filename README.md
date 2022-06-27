@@ -1,2 +1,2 @@
 # stock-analysis
-contains VBA code for automated excel-based analysis of green stock data
+This project uses VBA code for automated excel-based analysis of green stock data.
