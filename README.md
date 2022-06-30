@@ -19,7 +19,7 @@ We also provided code to automatically format the results table and created "run
 ##Results
 
 The resulting data (input and output worksheets) and VBA scripts are provided in the XLSM files ***green_stocks.xlsm*** and ***VBA_Challenge.xlsm***. 
-Analysis results are summarized in the figures ***VBA_Challenge_OrigMacro_2017.png*** and ***VBA_Challenge_OrigMacro_2018.png***. 
+Analysis results are summarized in the figures ***VBA_Challenge_RefacMacro_2017.png***, ***VBA_Challenge_RefacMacro_2018.png***, ***VBA_Challenge_OrigMacro_2017.png*** and ***VBA_Challenge_OrigMacro_2018.png***. 
 
 
 - Based on the yearly analyses of DQ vs. other stocks, we can draw two general conclusions:
